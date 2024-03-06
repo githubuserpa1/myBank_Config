@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to MyBank Accounts related Prod APIs"
+  contactDetails:
+    name: "Joe Root - Product Owner"
+    email: "joeroot@mybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 567-5678
+    - (555) 543-9012

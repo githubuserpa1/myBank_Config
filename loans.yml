@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to MyBank Loans related Dev APIs"
+  contactDetails:
+    name: "Staurt - Developer"
+    email: "stuart@mybank.com"
+  onCallSupport:
+    - (463) 777-1234
+    - (768) 789-5675
+    - (898) 765-9012

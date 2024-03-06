@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to MyBank Loans related QA APIs"
+  contactDetails:
+    name: "Jim Corbett - QA Lead"
+    email: "jimmy@mybank.com"
+  onCallSupport:
+    - (342) 555-1234
+    - (655) 567-5678
+    - (234) 543-9012

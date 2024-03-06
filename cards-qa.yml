@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to MyBank Cards related QA APIs"
+  contactDetails:
+    name: "Hales - QA Lead"
+    email: "hales@mybank.com"
+  onCallSupport:
+    - (332) 777-1234
+    - (999) 789-5678
+    - (435) 765-9012

@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to MyBank Cards related Prod APIs"
+  contactDetails:
+    name: "Sang blake - Product Owner"
+    email: "blakesang@mybank.com"
+  onCallSupport:
+    - (897) 777-1234
+    - (578) 789-5678
+    - (908) 765-9012

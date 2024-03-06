@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MyBank Accounts related Dev APIs"
+  contactDetails:
+    name: "Alex John - Developer"
+    email: "alex@mybank.com"
+  onCallSupport:
+      - (777) 777-1234
+      - (777) 789-5678
+      - (777) 765-9012

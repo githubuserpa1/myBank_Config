@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to MyBank Accounts related QA APIs"
+  contactDetails:
+    name: "David Warner - QA Lead"
+    email: "david@mybank.com"
+  onCallSupport:
+    - (666) 666-1234
+    - (666) 678-5678
+    - (666) 654-9012

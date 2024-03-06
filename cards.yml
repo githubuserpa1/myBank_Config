@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to MyBank Cards related Dev APIs"
+  contactDetails:
+    name: "Angelo Mathews - Developer"
+    email: "angmathew@mybank.com"
+  onCallSupport:
+    - (454) 777-1234
+    - (873) 789-5678
+    - (524) 765-9012
