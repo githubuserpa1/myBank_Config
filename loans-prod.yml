@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to MyBank Loans related Prod APIs"
+  message: "Welcome to MyBank Loans related Production APIs"
   contactDetails:
     name: "Carry John - Product Owner"
     email: "careJohn@mybank.com"
