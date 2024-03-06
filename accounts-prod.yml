@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank Accounts related Production APIs"
+  message: "Welcome to MyBank Accounts related Prod APIs"
   contactDetails:
     name: "Joe Root - Product Owner"
     email: "{cipher}8b686c2700fdd296c4f9b0d190267f793382893ab61476e87d6ddff66cdd94bf2289e317c41933f0fd2a22db00d86366"
